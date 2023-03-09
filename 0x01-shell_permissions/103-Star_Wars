@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo apt-get install telnet & telnet town.blinkenlights.nl &
+telnet town.blinkenlights.nl
