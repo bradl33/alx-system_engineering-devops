@@ -1,2 +1,2 @@
 #!/bin/bash
-for f in $(ls -1A) do chown vincent:$GROUP $f \
+sudo for f in $(ls -1A) do chown vincent:$GROUP $f \
