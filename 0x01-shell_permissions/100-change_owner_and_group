@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo for f in $(ls -1A) do chown vincent:$GROUP $f \
+chown -R vincent . & chown -R :staff . &
