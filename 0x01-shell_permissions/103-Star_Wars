@@ -1,2 +1,2 @@
 #!/bin/bash
-this is not the answer
+telnet towel.blinkenlights.nl
