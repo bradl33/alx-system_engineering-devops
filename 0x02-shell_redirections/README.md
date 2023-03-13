@@ -1,0 +1,1 @@
+README containing shell_redirections commands
