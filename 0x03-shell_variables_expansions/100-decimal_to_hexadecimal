@@ -1,0 +1,1 @@
+echo $(printf "%X" $DECIMAL)
